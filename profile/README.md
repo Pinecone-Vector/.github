@@ -80,7 +80,7 @@ Pinecone fits developers building AI search, support copilots, internal knowledg
 
 Startups can use Pinecone serverless for quick iteration, while larger teams can standardize pinecone rag across multiple products. A pinecone database is also useful for companies that need metadata filters, isolated tenants, and repeatable vector database behavior. Pinecone company positioning is strongest where semantic relevance and low-latency search directly affect user experience.
 
-![Pinecone vector database dashboard showing indexes, retrieval queries, and RAG context flow](https://s3-alpha.figma.com/hub/file/6169027605/e211c887-23a4-4f14-84d6-e974a6968c9d-cover.png)
+![Pinecone vector database dashboard showing indexes, retrieval queries, and RAG context flow](https://developers.openai.com/cookbook/assets/images/pinecone-dashboard.png)
 
 ## Practical Fixes and Setup Answers
 
